@@ -15,6 +15,15 @@
             dig.onclick= function (ev) {
 //                alert(44444);
                 var ev= ev || event;
+                var x=ev.clientX,y=ev.clientY;
+                console.log(x);
+                console.log(y);
+                var div= document.getElementById("div");
+                div.onmouseover= function (ev) {
+                  console.log(ev);
+                };
+
+
             };
         }
         alert(123);
