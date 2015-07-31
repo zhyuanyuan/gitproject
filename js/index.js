@@ -3,4 +3,7 @@
  */
 var show=function(){
   alert("cccc");
-}
+};
+var showmes=function(){
+    alert("this is showmes");
+};
