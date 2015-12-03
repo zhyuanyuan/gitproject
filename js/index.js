@@ -7,3 +7,8 @@ var show=function(){
 var showmes=function(){
     alert("this is showmes");
 };
+
+
+var other=function(){
+  alert(123);
+}
