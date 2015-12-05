@@ -21,3 +21,7 @@ var hello=function(){
 var say=function(){
 
 }
+
+var hel=function(){
+
+}
