@@ -18,3 +18,6 @@ var hello=function(){
     alert("sayhello");
 }
 
+var say=function(){
+
+}
