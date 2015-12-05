@@ -12,3 +12,9 @@ var showmes=function(){
 var other=function(){
   alert(123);
 }
+
+
+var hello=function(){
+    alert("sayhello");
+}
+
