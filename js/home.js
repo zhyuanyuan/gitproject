@@ -14,5 +14,7 @@ var c=function(){
 	alert("hello word");
 }
 
-var d=function(){}
+var d=function(){
+	console.log("123123");
+}
 
