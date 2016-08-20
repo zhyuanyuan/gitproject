@@ -10,7 +10,9 @@ var page=function(){
     console.log("这个函数是用来分布");
 }
 
-var c=function(){}
+var c=function(){
+	alert("hello word");
+}
 
 var d=function(){}
 
